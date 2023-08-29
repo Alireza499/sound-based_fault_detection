@@ -1,5 +1,3 @@
-# sound-based_fault_detection
-
 # Transfer Learning for Sound-Based Fault Detection in Industrial Machinery
 
 ![License](https://img.shields.io/badge/License-[License]-brightgreen.svg)
@@ -15,6 +13,10 @@ This Jupyter Notebook project focuses on utilizing transfer learning techniques 
 - Seamless development and training of deep learning models using the Keras framework.
 - Evaluation of the model's performance in detecting faults in industrial machinery.
 - Comparison with traditional methods for fault detection.
+
+## Dataset
+
+We used the "MIMII DATASET: Sound Dataset for Malfunctioning Industrial Machine Investigation and Inspection" for training and testing our models. This dataset contains a wide variety of industrial machine sounds that encompass different fault types. You can download the dataset from [here](https://zenodo.org/record/3384388).
 
 ## Installation and Setup
 
@@ -44,4 +46,3 @@ For detailed insights and implementation specifics, please refer to the Jupyter 
 ---
 
 Feel free to explore the notebooks, contribute to the project, or adapt the techniques for your own sound-based fault detection scenarios!
-
