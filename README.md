@@ -39,7 +39,7 @@ This project is licensed under the MIT license. For more information, please ref
 
 ## Acknowledgments
 
-We extend our gratitude to the creators of the VGG16 architecture and the Keras deep learning framework for providing essential tools for this project.
+We extend our gratitude to the creators of the VGG16 architecture and the Keras deep learning framework for providing essential tools for this project. Additionally, we would like to acknowledge the authors of the "MIMII DATASET" for making their valuable dataset available for research.
 
 For detailed insights and implementation specifics, please refer to the Jupyter Notebook files and available documentation in this repository.
 
