@@ -1,6 +1,6 @@
 # Transfer Learning for Sound-Based Fault Detection in Industrial Machinery
 
-![License](https://img.shields.io/badge/License-[License]-brightgreen.svg)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 ## Overview
 
